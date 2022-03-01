@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathanael-h
 - 👀 I’m interested in freedom, justice, free and open source software, human and environmental ecology, and faith in Jesus.
-- 🌱 I’m currently learning Flutter, Docker and Compose
+- 🌱 I’m currently learning Flutter, Kubernetes
 - 📫 How to reach me, here or by email, see footer on isidorus.fr
 
 <!---
